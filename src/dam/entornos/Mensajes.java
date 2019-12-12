@@ -15,7 +15,7 @@ public class Mensajes {
 		mensajeProfesor();
 		//
 		// Pon la llamada a tu método a partir de aqui
-			
+		alumnoFila4PC6();	
 		
 	}
 	
@@ -29,7 +29,13 @@ public class Mensajes {
 	}	
 	
 	// Pon tu método a partir de aqui
-	
+	private static void alumnoFila4PC6() {
+		System.out.println("<%%%%%%%|==============================>");
+		System.out.println("Hola, soy Jorge Cervera alumno de 1ºDAM");
+		System.out.println("Os deseo un feliz año 2020!!!!");
+		System.out.println("<=============================|%%%%%%%>");
+		System.out.println();
+	}
 	
 	
 	

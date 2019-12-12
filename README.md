@@ -92,4 +92,6 @@ Os deseo un feliz año 2020 !!!
 
 #### AlumnoFila4PC6
 
+Primero he realizado un fork del repositorio publico, seguidamente he creado una rama he accedido a ella, 
+dentro de la clase Mensajes he creado un metodo que realiza la funcion de mostrar un mensaje para desear un feliz año.
 
